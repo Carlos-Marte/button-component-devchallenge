@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5em;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
